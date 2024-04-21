@@ -1,0 +1,30 @@
+{
+    "tasks": 
+    [
+        {
+            "id": "1", 
+            "title": "Fare la spesa", 
+            "completed": false
+        },
+        {
+            "id": "2", 
+            "title": "Cucinare la cena", 
+            "completed": false
+        },
+        {
+            "id": "3", 
+            "title": "Pulire casa", 
+            "completed": false
+        },
+        {
+            "id": "4", 
+            "title": "Andare in palestra", 
+            "completed": false
+        },
+        {
+            "id": "5", 
+            "title": "Comprare abito per matrimonio", 
+            "completed": false
+        }      
+    ]
+}
