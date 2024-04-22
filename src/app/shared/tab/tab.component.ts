@@ -10,8 +10,8 @@ import { ToDoListComponent } from "../../to-do-list/to-do-list.component";
     template: `
   <div class="tabs w-full">
     <div class="flex justify-center p-3">
-      <button class="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg" (click)="tab=1" [ngClass]="{'btn-success':tab===1}">Home</button>
-      <button class="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg" (click)="tab=2" [ngClass]="{'btn-success':tab===2}">To-do-List</button>
+      <button class="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg rounded-none" (click)="tab=1" [ngClass]="{'btn-success':tab===1}">Home</button>
+      <button class="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg rounded-none" (click)="tab=2" [ngClass]="{'btn-success':tab===2}">To-do-List</button>
     </div>
   </div>
 
